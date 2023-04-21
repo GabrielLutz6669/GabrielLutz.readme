@@ -1,4 +1,7 @@
-# GabrielLutz6669.readme
+#Gabriel Lutz
 
-https://freeway-game-umber.vercel.app - freeway game link
-https://gtech-portfolio.vercel.app    - gtech portifolio link
+##Link de alguns dos meus projetos:
+###Links to some of my personal projects:
+
+https://freeway-game-umber.vercel.app - Freeway Game Link;
+https://gtech-portfolio.vercel.app    - GTech Portifolio Link;
