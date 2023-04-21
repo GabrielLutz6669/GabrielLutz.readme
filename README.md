@@ -1,7 +1,9 @@
-#Gabriel Lutz
+# Gabriel Lutz
 
-##Link de alguns dos meus projetos:
-###Links to some of my personal projects:
+## Links de alguns dos meus projetos pessoais (Links to some of my personal projects):
 
-https://freeway-game-umber.vercel.app - Freeway Game Link;
-https://gtech-portfolio.vercel.app    - GTech Portifolio Link;
+* [Freeway game](https://freeway-game-umber.vercel.app);
+
+* [GTech Portifolio](https://gtech-portfolio.vercel.app);
+
+* [Pong game](https://pong-game-neon.vercel.app);
